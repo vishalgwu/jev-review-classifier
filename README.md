@@ -1,6 +1,6 @@
 # Multi-Attribute E-Commerce Review Classifier (Jev)
 
-A hands-on project from CampusX's session on **Jev** by TypeSafe AI — the
+A hands-on project on **Jev** by TypeSafe AI — the
 "System-1" decision model that returns *decisions, not text*.
 
 One product review goes in as the **state**; five typed **questions** are
