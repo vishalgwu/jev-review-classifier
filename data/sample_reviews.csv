@@ -1,0 +1,13 @@
+review_id,review_text,true_sentiment,true_aspect,true_rating,true_needs_escalation,true_is_suspicious
+1,"The headphones sound amazing and battery lasts forever. Shipping took 2 weeks though.",positive,shipping,4,0,0
+2,"Absolutely terrible. Stopped working after 3 days and support refused to help. Filing a chargeback.",negative,service,1,1,0
+3,"It's fine. Does what it says on the box, nothing special.",neutral,none,3,0,0
+4,"Way overpriced for what you get. The same thing is half the price elsewhere.",negative,price,2,0,0
+5,"BUY NOW BEST PRODUCT EVER!!! Click my link for discount!!!",neutral,none,3,0,1
+6,"Arrived dented and the screen flickers. Very disappointed with the quality.",negative,quality,2,0,0
+7,"Customer service was rude when I asked about returns. Never buying here again.",negative,service,1,1,0
+8,"Perfect gift for my dad. He uses it every day and loves it.",positive,none,5,0,0
+9,"Decent quality but delivery was a week late with no updates.",neutral,shipping,3,0,0
+10,"This blender caught fire while in use. This is dangerous and I am contacting a lawyer.",negative,quality,1,1,0
+11,"Good value for the price. Setup took 10 minutes.",positive,none,4,0,0
+12,"Meh. The material feels cheap but it works.",neutral,quality,3,0,0
